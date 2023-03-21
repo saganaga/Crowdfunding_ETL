@@ -1,4 +1,5 @@
 # Crowdfunding_ETL
+This was a group project and I worked with Robert Bentz.
 ## Purpose
 This is an ETL mini project, where the purpose is:
 - To practice building an ETL pipeline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the data. 
@@ -12,13 +13,13 @@ This mini project is divided into the following subsections:
 - Create the Crowdfunding Database
 ### Create the Category and Subcategory DataFrames
 #### A Category DataFrame is Created
-- [ ] The DataFrame contains a "category_id" column that has entries going sequentially from "cat1" to "catn", where n is the number of unique categories
-- [ ] The DataFrame has a "category" column that contains only the category titles
-- [ ] The category DataFrame is exported as category.csv
+- [x] The DataFrame contains a "category_id" column that has entries going sequentially from "cat1" to "catn", where n is the number of unique categories
+- [x] The DataFrame has a "category" column that contains only the category titles
+- [x] The category DataFrame is exported as category.csv
 #### A Subcategory DataFrame is Created
-- [ ] The DataFrame contains a "subcategory_id" column that has entries going sequentially from "subcat1" to "subcatn", where n is the number of unique subcategories
-- [ ] The DataFrame contains a "subcategory" column that contains only the subcategory titles
-- [ ] The subcategory DataFrame is exported as category.csv
+- [x] The DataFrame contains a "subcategory_id" column that has entries going sequentially from "subcat1" to "subcatn", where n is the number of unique subcategories
+- [x] The DataFrame contains a "subcategory" column that contains only the subcategory titles
+- [x] The subcategory DataFrame is exported as category.csv
 ### Create the Campaign DataFrame
 - [ ] The DataFrame has the following columns:
     - A "cf_id" column
