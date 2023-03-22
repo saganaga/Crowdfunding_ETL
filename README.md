@@ -21,7 +21,7 @@ This mini project is divided into the following subsections:
 - [x] The DataFrame contains a "subcategory" column that contains only the subcategory titles
 - [x] The subcategory DataFrame is exported as category.csv
 ### Create the Campaign DataFrame
-- [ ] The DataFrame has the following columns:
+- [x] The DataFrame has the following columns:
     - A "cf_id" column
     - A "contact_id" column
     - A "company_name" column
@@ -36,7 +36,7 @@ This mini project is divided into the following subsections:
     - An "end_date" with the time formatted as "YYYY-MM-DD"
     - A "category_id" column that contains the unique identification numbers matching those in the "category_id" column of the category DataFrame
     - A "subcategory_id" column that contains the unique identification numbers matching those in the "subcategory_id" column of the subcategory DataFrame
-- [ ] The campaign DataFrame is exported as campaign.csv
+- [x] The campaign DataFrame is exported as campaign.csv
 ### Create the Contacts DataFrame
 - [ ] The DataFrame has the following columns:
     - A "contact_id" column
