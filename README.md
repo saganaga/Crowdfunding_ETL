@@ -38,12 +38,12 @@ This mini project is divided into the following subsections:
     - A "subcategory_id" column that contains the unique identification numbers matching those in the "subcategory_id" column of the subcategory DataFrame
 - [x] The campaign DataFrame is exported as campaign.csv
 ### Create the Contacts DataFrame
-- [ ] The DataFrame has the following columns:
+- [x] The DataFrame has the following columns:
     - A "contact_id" column
     - A "first_name" column
     - A "last_name" column
     - An "email" column
-- [ ] The contacts DataFrame is exported as contacts.csv
+- [x] The contacts DataFrame is exported as contacts.csv
 ### Create the Crowdfunding Database
 - [ ] A database schema labeled, crowdfunding_db_schema.sql is created
 - [ ] A crowdfunding_db is created using the crowdfunding_db_schema.sql file
