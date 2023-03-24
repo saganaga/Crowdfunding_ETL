@@ -1,5 +1,5 @@
 # Crowdfunding_ETL
-This was a group project and I worked with Robert Bentz.
+This was a group project and I worked with Robert Bentz. My Partner, Robert had different code.
 ## Purpose
 This is an ETL mini project, where the purpose is:
 - To practice building an ETL pipeline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the data. 
@@ -45,8 +45,12 @@ This mini project is divided into the following subsections:
     - An "email" column
 - [x] The contacts DataFrame is exported as contacts.csv
 ### Create the Crowdfunding Database
-- [ ] A database schema labeled, crowdfunding_db_schema.sql is created
-- [ ] A crowdfunding_db is created using the crowdfunding_db_schema.sql file
-- [ ] The database has the appropriate primary and foreign keys and relationships
-- [ ] Each CSV file is imported into the appropriate table without errors
-- [ ] The data from each table is displayed using a SELECT * statement
+- [x] A database schema labeled, crowdfunding_db_schema.sql is created
+- [x] A crowdfunding_db is created using the crowdfunding_db_schema.sql file
+- [x] The database has the appropriate primary and foreign keys and relationships
+- [x] Each CSV file is imported into the appropriate table without errors
+- [x] The data from each table is displayed using a SELECT * statement
+## Results
+Entity Relationship Diagram
+![Entity Relationship Diagram](Crowdfunding_DB_ERD.png)
+Table schemata is found in crowdfunding_db_schema.sql
